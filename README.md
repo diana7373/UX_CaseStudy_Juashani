@@ -1,5 +1,7 @@
-Diana Peven Kobtseva
+Nombres equipo
 
-Beatriz Ruz Gómez
+- Diana Peven Kobtseva
 
-Cristina García Gázquez
+- Beatriz Ruz Gómez
+
+- Cristina García Gázquez
