@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Opcional: Crear una clase global para usar la fuente de forma más limpia */
+.font-pixel {
+  font-family: 'Press Start 2P';
+}
+
+/* Quitamos el background-color de .button y lo separamos */
+.button {
+  color: black;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: 'Press Start 2P', cursive;
+}
+
+/* Variante Roja */
+.bg-red { background-color: #cd2e2e; }
+.bg-red:hover { background-color: #a81f1f; }
+
+/* Variante Morada */
+.bg-purple { background-color: #8b5cf6; }
+.bg-purple:hover { background-color: #7c3aed; }
